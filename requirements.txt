@@ -9,4 +9,6 @@ scikit-image
 Pillow
 opencv-python
 joblib
+seaborn
+
 
