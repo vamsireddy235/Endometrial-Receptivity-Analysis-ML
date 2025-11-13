@@ -21,3 +21,11 @@ pip install lightgbm
 To launch the interactive web interface:
 
 streamlit run app.py
+
+streamlit
+scikit-image
+numpy
+pandas
+matplotlib
+scikit-learn
+
