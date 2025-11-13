@@ -5,27 +5,12 @@ To run this project, install the following Python libraries:
 ```bash
 pip install -r requirements.txt
 
-pip install streamlit
-pip install pandas
-pip install numpy
-pip install scikit-learn
-pip install matplotlib
-pip install seaborn
-pip install plotly
-pip install joblib
-pip install openpyxl
-pip install xgboost
-pip install lightgbm
-
-
-To launch the interactive web interface:
-
-streamlit run app.py
-
 streamlit
-scikit-image
 numpy
 pandas
 matplotlib
 scikit-learn
-
+scikit-image
+Pillow
+opencv-python
+joblib
