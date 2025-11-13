@@ -8,7 +8,7 @@ AI-driven Endometrial Receptivity Analysis (ERA) system to optimize embryo trans
 This project applies machine learning to endometrial gene expression data to predict the optimal embryo transfer window, aiming to increase implantation success rates and reduce IVF failures.
 
 
-## 🧾 Requirements
+🧾 Requirements
 
 To install all dependencies:
 ```bash
