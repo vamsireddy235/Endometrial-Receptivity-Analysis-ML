@@ -9,6 +9,15 @@ This project applies machine learning to endometrial gene expression data to pre
 
 
 ![Screenshot](https://github.com/vamsireddy235/Endometrial-Receptivity-Analysis-ML/blob/98dfd9bd31cb3e8a1e23cc6188a7228137a2a993/screenshot/1%20(2).png)
+![Screenshot](https://github.com/vamsireddy235/Endometrial-Receptivity-Analysis-ML/blob/6e5dfb9c9f8a22d1179cd198c71b43428d9104aa/screenshot/1%20(1).png)
+![Screenshot](https://github.com/vamsireddy235/Endometrial-Receptivity-Analysis-ML/blob/6e5dfb9c9f8a22d1179cd198c71b43428d9104aa/screenshot/1%20(11).png)
+![Screenshot](https://github.com/vamsireddy235/Endometrial-Receptivity-Analysis-ML/blob/6e5dfb9c9f8a22d1179cd198c71b43428d9104aa/screenshot/1%20(10).png)
+![Screenshot](https://github.com/vamsireddy235/Endometrial-Receptivity-Analysis-ML/blob/6e5dfb9c9f8a22d1179cd198c71b43428d9104aa/screenshot/1%20(7).png)
+![Screenshot](https://github.com/vamsireddy235/Endometrial-Receptivity-Analysis-ML/blob/6e5dfb9c9f8a22d1179cd198c71b43428d9104aa/screenshot/1%20(8).png)
+![Screenshot](https://github.com/vamsireddy235/Endometrial-Receptivity-Analysis-ML/blob/6e5dfb9c9f8a22d1179cd198c71b43428d9104aa/screenshot/1%20(3).png)
+![Screenshot](https://github.com/vamsireddy235/Endometrial-Receptivity-Analysis-ML/blob/6e5dfb9c9f8a22d1179cd198c71b43428d9104aa/screenshot/1%20(4).png)
+![Screenshot](https://github.com/vamsireddy235/Endometrial-Receptivity-Analysis-ML/blob/6e5dfb9c9f8a22d1179cd198c71b43428d9104aa/screenshot/1%20(5).png)
+![Screenshot](https://github.com/vamsireddy235/Endometrial-Receptivity-Analysis-ML/blob/6e5dfb9c9f8a22d1179cd198c71b43428d9104aa/screenshot/1%20(6).png)
 
 
 
