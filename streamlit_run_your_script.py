@@ -12,7 +12,7 @@ sns.set_theme(style="whitegrid", palette="muted")
 plt.rcParams.update({'axes.facecolor':'#f7f7f7', 'figure.facecolor':'#f7f7f7', 'axes.grid':True})
 
 # Load your dataset once
-df = pd.read_csv(r"Endometrial-Receptivity-Analysis-ML/data/dt_ERA_corrected.csv")
+df = pd.read_csv(r"dt_ERA_corrected - Copy.csv")
 df["Image_Name"] = df["image_file"].apply(lambda x: os.path.basename(str(x)).lower())
 
 def load_rgb_image(image_path):
@@ -138,4 +138,5 @@ if uploaded_file is not None:
 
     else:
         st.error(f"No matching patient record found for image: {img_name}")
+
 
