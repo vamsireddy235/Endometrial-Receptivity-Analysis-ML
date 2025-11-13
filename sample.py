@@ -42,7 +42,7 @@ from sklearn.metrics import accuracy_score, f1_score
 
 
 # Load your dataset
-df = pd.read_csv(r"C:\Users\vamsi\Downloads\EMBRYO PROJECT\Deployment Code\dt_ERA_corrected - Copy.csv")
+df = pd.read_csv(r"Endometrial-Receptivity-Analysis-ML/data/dt_ERA_corrected.csv")
 
 # Display the DataFrame using D-Tale
 d = dtale.show(df, host = 'localhost', port = 8000)
@@ -762,6 +762,7 @@ lc_df.to_csv(r"C:\Users\vamsi\Downloads\powerbi_learning_curve.csv", index=False
 
 
 print("✅ Exported datasets for Power BI successfully.")
+
 
 
 
